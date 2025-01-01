@@ -164,6 +164,8 @@ The project is licensed under the MIT License.
 
 ### Unreleased
 
+- SECURITY: Update `jinja2` based on CVE-2024-56326 & CVE-2024-56201 (both moderate severity)
+
 ### 0.4.2 - 2024-11-26
 
 - SECURITY: Update `tornado` based on CVE-2024-52804 (HTTP cookie parsing DoS vulnerability)
