@@ -164,6 +164,8 @@ The project is licensed under the MIT License.
 
 ### Unreleased
 
+### 0.4.4 - 2025-01-13
+
 - SECURITY: Update `virtualenv` based on CVE-2024-53899 (high severity).
 
 ### 0.4.3 - 2024-12-31
